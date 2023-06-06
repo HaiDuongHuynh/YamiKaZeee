@@ -3,7 +3,7 @@
 - Currently studying for Master Degree in Maharishi International University
 - 👀 I’m interested in ... Software Engineering, Game Development, Machine Learning and Back-end Development
 - Language: C++, C#, Java, Python.
-- 📫 How to reach me: 
+📫 How to reach me: 
 - Email: tommy94001@gmail.com
 - Linkedin: linkedin.com/in/duong-huynh-154617233/
 <!---
