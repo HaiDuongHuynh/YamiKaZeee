@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hai Duong Huynh
-- I have Bachelor of Sciene (Computer Science major) in Texas Wesleyan University
+- I have Bachelor of Science (Computer Science major) in Texas Wesleyan University
 - Currently studying for Master Degree in Maharishi International University
 - 👀 I’m interested in ... Software Engineering, Game Development, Machine Learning and Back-end Development
 - Language: C++, C#, Java, Python.
